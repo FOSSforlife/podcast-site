@@ -126,7 +126,8 @@
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: _font(main);
+		// font-family: 'Source Sans Pro', sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -566,6 +567,11 @@
 		> .label {
 			display: none;
 		}
+	}
+
+	#header > .icon > img {
+		width:30%;
+		height:auto;
 	}
 
 /* List */

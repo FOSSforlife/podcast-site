@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter directive', // <title>
+  siteTitle: 'Listening Cricle', // <title>
   manifestName: 'directive',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,14 +8,19 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-directive/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Hi! I am Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'Listening Circle',
+  subHeading: 'The Music Podcast',
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
+      icon: 'fa-soundcloud',
       name: 'Github',
       url: 'https://github.com/anubhavsrivastava',
+    },
+    {
+      icon: 'fa-youtube',
+      name: 'Email',
+      url: 'mailto:anubhav.srivastava00@gmail.com',
     },
     {
       icon: 'fa-twitter',
@@ -26,6 +31,11 @@ module.exports = {
       icon: 'fa-facebook',
       name: 'Facebook',
       url: 'https://facebook.com/theanubhav',
+    },
+    {
+      icon: 'fa-envelope-o',
+      name: 'Email',
+      url: 'mailto:anubhav.srivastava00@gmail.com',
     },
     {
       icon: 'fa-envelope-o',
