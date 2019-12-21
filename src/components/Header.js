@@ -9,7 +9,7 @@ export default function Header() {
         <img src={icon} alt="" />
       </span> 
       {/* <h1>{config.heading}</h1> */}
-      <p>{config.subHeading}</p>
+      <p class="subtitle">{config.subHeading}</p>
     </div>
   );
 }

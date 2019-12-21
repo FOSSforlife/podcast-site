@@ -15,15 +15,16 @@
 
 // Font.
 	$font: (
-		main: #{'Coda Caption', 'Source Sans Pro', sans-serif}
+		header: #{'Coda Caption', 'Source Sans Pro', sans-serif},
+		main: #{'Source Sans Pro', sans-serif}
 	);
 
 // Palette.
 	$palette: (
-		bg:				#ffffff,
-		fg:				#6e6e6e,
-		fg-light:		#888888,
-		fg-bold:		#5b5b5b,
+		bg:				#6e6e6e,
+		fg:				#ffffff,
+		fg-light:		#ffffff,
+		fg-bold:		#dfdfdf,
 		border:			rgba(224,224,224,0.75),
 		border-bg:		rgba(224,224,224,0.15),
 		border-bg2:		rgba(224,224,224,0.35),
@@ -37,7 +38,7 @@
 
 		accent2: (
 			bg:			#544d55,
-			fg:			rgba(255,255,255,0.8),
+			fg:			rgba(138, 140, 255, 0.8),
 			fg-light:	rgba(255,255,255,0.35),
 			fg-bold:	#ffffff
 		)
