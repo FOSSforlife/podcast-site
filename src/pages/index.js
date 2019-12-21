@@ -17,11 +17,7 @@ const IndexPage = () => (
     <div id="main">
       <header className="major container medium">
         <h2>
-          We conduct experiments that
-          <br />
-          may or may not seriously
-          <br />
-          break the universe
+          Episodes
         </h2>
       </header>
 
