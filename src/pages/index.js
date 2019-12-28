@@ -5,6 +5,7 @@ import Layout from '../components/Layout';
 import { Link } from 'gatsby';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import EpisodeList from '../components/EpisodeList';
 
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
@@ -16,9 +17,10 @@ const IndexPage = () => (
 
     <div id="main">
       <header className="major container medium">
-        <h2>
-          Episodes
+        <h2 style={{marginBottom: '1em'}}>
+          Latest Episodes
         </h2>
+          <EpisodeList />
       </header>
 
       <div className="box alt container">

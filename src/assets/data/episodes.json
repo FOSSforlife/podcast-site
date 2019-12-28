@@ -1,0 +1,81 @@
+[
+	{
+		"episodeId": "ep001",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 1,
+			"totalEpisodeNo": 1,
+			"dateRecorded": "2019-09-06",
+			"dateReleased": "2019-09-11"
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/episode-1-tool-fear-inoculum-album-review",
+			"youtube": "https://youtu.be/WpHilvsT0-E"
+		},
+		"info": {
+			"title": "Tool - Fear Inoculum Review",
+			"description": "In this episode, we review the new Tool album, \"Fear Inoculum\". We had some disagreements here and there, and gave some insight into the band's writing style and comparisons to previous albums.",
+			"cast": [
+				"Elias Jackson",
+				"Luke Pistacchi",
+				"Liam Moriarty",
+				"Dante Graves",
+				"Elijah Loungeway",
+				"Shane Hekman",
+				"Ian Maynard",
+				"Richard Milenkovich"
+			]
+		}
+	},
+	{
+		"episodeId": "ep002",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 2,
+			"totalEpisodeNo": 2,
+			"dateRecorded": "2019-09-21",
+			"dateReleased": "2019-09-25"
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/episode-2-what-makes-a-good-concert",
+			"youtube": "https://youtu.be/fu2zxADjnMg"
+		},
+		"info": {
+			"title": "What Makes A Good Concert?",
+			"description": "In this episode, we talk about our favorite live experiences as well as some concert horror stories, and create our dream concert lineup.",
+			"cast": [
+				"Elias Jackson",
+				"Luke Pistacchi",
+				"Liam Moriarty",
+				"Dante Graves",
+				"Elijah Loungeway",
+				"Ian Maynard",
+				"Jackson Anthony",
+				"Joshua Allgood"
+			]
+		}
+	},
+	{
+		"episodeId": "ep003",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 3,
+			"totalEpisodeNo": 3,
+			"dateRecorded": "2019-10-12",
+			"dateReleased": "2019-10-16"
+		},
+		"links": {
+			"soundcloud": "",
+			"youtube": ""
+		},
+		"info": {
+			"title": "The Music Industry",
+			"description": "Luke, Liam, and Elias provide some insight into how the music industry has evolved, and how digital media and self-publishing are revolutionizing the way artists promote themselves.",
+			"cast": [
+				"Elias Jackson",
+				"Luke Pistacchi",
+				"Liam Moriarty"
+			]
+		}
+	}
+]
