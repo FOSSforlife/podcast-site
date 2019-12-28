@@ -16,14 +16,18 @@
 			"title": "Tool - Fear Inoculum Review",
 			"description": "In this episode, we review the new Tool album, \"Fear Inoculum\". We had some disagreements here and there, and gave some insight into the band's writing style and comparisons to previous albums.",
 			"cast": [
-				"Elias Jackson",
-				"Luke Pistacchi",
-				"Liam Moriarty",
-				"Dante Graves",
-				"Elijah Loungeway",
-				"Shane Hekman",
-				"Ian Maynard",
-				"Richard Milenkovich"
+				"Elias",
+				"Luke",
+				"Liam",
+				"Dante",
+				"Elijah",
+				"Shane",
+				"Ian",
+				"Richard"
+			],
+			"introCredits": [
+				"Danny Pelayo",
+				"Elias Jackson"
 			]
 		}
 	},
@@ -44,14 +48,18 @@
 			"title": "What Makes A Good Concert?",
 			"description": "In this episode, we talk about our favorite live experiences as well as some concert horror stories, and create our dream concert lineup.",
 			"cast": [
-				"Elias Jackson",
-				"Luke Pistacchi",
-				"Liam Moriarty",
-				"Dante Graves",
-				"Elijah Loungeway",
-				"Ian Maynard",
-				"Jackson Anthony",
-				"Joshua Allgood"
+				"Elias",
+				"Luke",
+				"Liam",
+				"Dante",
+				"Elijah",
+				"Ian",
+				"Jackson",
+				"Joshua"
+			],
+			"introCredits": [
+				"Danny Pelayo",
+				"Elias Jackson"
 			]
 		}
 	},
@@ -65,16 +73,48 @@
 			"dateReleased": "2019-10-16"
 		},
 		"links": {
-			"soundcloud": "",
-			"youtube": ""
+			"soundcloud": "https://soundcloud.com/listeningcircle/ep-3-the-music-industry",
+			"youtube": "https://youtu.be/U6cNQtsugjw"
 		},
 		"info": {
 			"title": "The Music Industry",
 			"description": "Luke, Liam, and Elias provide some insight into how the music industry has evolved, and how digital media and self-publishing are revolutionizing the way artists promote themselves.",
 			"cast": [
+				"Elias",
+				"Luke",
+				"Liam"
+			],
+			"introCredits": [
+				"Joshua Allgood"
+			]
+		}
+	},
+	{
+		"episodeId": "ep004",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 4,
+			"totalEpisodeNo":4,
+			"dateRecorded": "2019-12-14",
+			"dateReleased": "2019-12-18"
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/episode-4-best-albums-of-the-yeardecade",
+			"youtube": "https://youtu.be/MNyyj4SR3P4"
+		},
+		"info": {
+			"title": "Year/Decade in Review",
+			"description": "In this episode, Liam, Elias, Luke, and Jackson wrap up the year/decade by revealing some of our favorite albums, discussing the internet's favorite albums, and speaking at length about a particular artist that shaped this decade in a massive way.",
+			"cast": [
+				"Elias",
+				"Luke",
+				"Liam",
+				"Jackson"
+			],
+			"introCredits": [
+				"Richard Milenkovich",
 				"Elias Jackson",
-				"Luke Pistacchi",
-				"Liam Moriarty"
+				"Sean Ryan"
 			]
 		}
 	}

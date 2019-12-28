@@ -14,12 +14,15 @@ import episodeData from '../assets/data/episodes.json';
 // ];
 
 const EpisodeList = () => {
-  const [episodes, setEpisodes] = useState(episodeData);
+  const [episodes, setEpisodes] = useState(episodeData
+    .sort((a, b) => b.metadata.totalEpisodeNo - a.metadata.totalEpisodeNo)
+    // .slice(0, 2)
+    );
   
   return (
     <Fragment>
       {episodes.map(ep => (
-          <Collapsible className="collapse-closed" openedClassName="collapse-open" trigger={`Episode ${ep.metadata.totalEpisodeNo}: ${ep.info.title}`}>
+          <Collapsible className="collapse-closed" openedClassName="collapse-open" transitionTime={200} trigger={`Episode ${ep.metadata.totalEpisodeNo}: ${ep.info.title}`}>
             <Episode episode={ep}/>
           </Collapsible>
         ))}

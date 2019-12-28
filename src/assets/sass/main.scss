@@ -112,7 +112,12 @@
 	}
 
 	body, .main-body {
-		background: _palette(bg);
+		background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(90, 140, 90, 0.8)),
+			url('../images/background2.jpg');
+		background-attachment: fixed;
+		background-position: top 0px left 0px;
+		background-size: 100%;
+		// background: _palette(bg);
 
 		// Stops initial animations until page loads.
 			&.is-preload {
@@ -299,6 +304,7 @@
 			border-color: _palette(border);
 			border-style: solid;
 			border-top-width: 1px;
+			border-radius: 10px;
 			margin-bottom: 6em;
 			padding: 4em 0;
 			position: relative;
@@ -1570,7 +1576,8 @@
 	}
 
 	.Collapsible__contentInner {
-		line-height: 0;
+		background-image: linear-gradient(#2e6e2e, rgba(40, 40, 140, 0.8));
+		// line-height: 0;
 		// border-bottom: 1px solid black;
 		
 		
@@ -1585,9 +1592,9 @@
   // text-decoration: none;
   color: grey;
   position: relative;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #070;
   // padding: 10px;
-  background: #999;
+  background: #090;
   color: white;
 
 
@@ -1612,3 +1619,7 @@
     background-color: grey;
   }
 }
+
+	.episode-container {
+		padding: 1em;
+	}
