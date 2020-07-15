@@ -10,7 +10,8 @@
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-1-tool-fear-inoculum-album-review",
-			"youtube": "https://youtu.be/WpHilvsT0-E"
+			"youtube": "https://youtu.be/WpHilvsT0-E",
+			"mp3": "https://listeningcircle.netlify.app/podcast/episodes/listeningcircle001-tool-fear-inoculum-album-review"
 		},
 		"info": {
 			"title": "Tool - Fear Inoculum Review",
@@ -115,6 +116,36 @@
 				"Richard Milenkovich",
 				"Elias Jackson",
 				"Sean Ryan"
+			]
+		}
+	},
+	{
+		"episodeId": "ep005",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 5,
+			"totalEpisodeNo": 5,
+			"dateRecorded": "2020-06-06",
+			"dateReleased": "2020-06-10"
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/episode-5-run-the-jewels-rtj4-review",
+			"youtube": "https://youtu.be/4GHmlk_GE1Q"
+		},
+		"info": {
+			"title": "Run the Jewels - RTJ4 Review",
+			"description": "The music podcast is back! We review the latest Run the Jewels album, discussing its profound, captivating lyrics and top-notch production. We also spend a lot of time talking about the ongoing racial tensions and political disillusion in America, which plays into the album’s themes. The podcast ends with a powerful poem by Kaila.",
+			"cast": [
+				"Elias",
+				"Jackson",
+				"Shane",
+				"Dante",
+				"Kaila",
+				"Grant",
+				"Ian"
+			],
+			"introCredits": [
+				"Joshua Allgood"
 			]
 		}
 	}
