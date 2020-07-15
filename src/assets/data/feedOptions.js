@@ -7,7 +7,7 @@ module.exports = {
   author: 'Listening Circle',
   managingEditor: 'Elias Jackson',
   webMaster: 'Elias Jackson',
-  language: 'English',
+  language: 'en-US',
   categories: ['music'],
   itunesAuthor: 'Listening Circle',
   itunesSubtitle: 'The music podcast',
