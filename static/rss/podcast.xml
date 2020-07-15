@@ -9,10 +9,10 @@
 			<link>https://soundcloud.com/listeningcircle/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 15 Jul 2020 01:39:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jul 2020 03:16:37 GMT</lastBuildDate>
 		<atom:link href="https://listeningcircle.netlify.app/rss/podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Listening Circle]]></author>
-		<language><![CDATA[English]]></language>
+		<language><![CDATA[en-US]]></language>
 		<managingEditor><![CDATA[Elias Jackson]]></managingEditor>
 		<webMaster><![CDATA[Elias Jackson]]></webMaster>
 		<category><![CDATA[music]]></category>
@@ -31,8 +31,8 @@
 		<item>
 			<title><![CDATA[Tool - Fear Inoculum Review]]></title>
 			<description><![CDATA[In this episode, we review the new Tool album, "Fear Inoculum". We had some disagreements here and there, and gave some insight into the band's writing style and comparisons to previous albums. Cast: Elias, Luke, Liam, Dante, Elijah, Shane, Ian, Richard. Intro music by Danny Pelayo, Elias Jackson]]></description>
-			<link>https://listeningcircle.netlify.app/podcast/episodes/listeningcircle001-tool-fear-inoculum-album-review</link>
-			<guid isPermaLink="true">https://listeningcircle.netlify.app/podcast/episodes/listeningcircle001-tool-fear-inoculum-album-review</guid>
+			<link>https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle001-tool-fear-inoculum-album-review.mp3</link>
+			<guid isPermaLink="true">https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle001-tool-fear-inoculum-album-review.mp3</guid>
 			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
 			<pubDate>Wed, 11 Sep 2019 00:00:00 GMT</pubDate>
 			<itunes:summary>In this episode, we review the new Tool album, &quot;Fear Inoculum&quot;. We had some disagreements here and there, and gave some insight into the band&apos;s writing style and comparisons to previous albums. Cast: Elias, Luke, Liam, Dante, Elijah, Shane, Ian, Richard. Intro music by Danny Pelayo, Elias Jackson</itunes:summary>
@@ -41,7 +41,8 @@
 		<item>
 			<title><![CDATA[What Makes A Good Concert?]]></title>
 			<description><![CDATA[In this episode, we talk about our favorite live experiences as well as some concert horror stories, and create our dream concert lineup. Cast: Elias, Luke, Liam, Dante, Elijah, Ian, Jackson, Joshua. Intro music by Danny Pelayo, Elias Jackson]]></description>
-			<guid isPermaLink="false">What Makes A Good Concert?</guid>
+			<link>https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle002-what-makes-a-good-concert.mp3</link>
+			<guid isPermaLink="true">https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle002-what-makes-a-good-concert.mp3</guid>
 			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
 			<pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate>
 			<itunes:summary>In this episode, we talk about our favorite live experiences as well as some concert horror stories, and create our dream concert lineup. Cast: Elias, Luke, Liam, Dante, Elijah, Ian, Jackson, Joshua. Intro music by Danny Pelayo, Elias Jackson</itunes:summary>
@@ -50,7 +51,8 @@
 		<item>
 			<title><![CDATA[The Music Industry]]></title>
 			<description><![CDATA[Luke, Liam, and Elias provide some insight into how the music industry has evolved, and how digital media and self-publishing are revolutionizing the way artists promote themselves. Cast: Elias, Luke, Liam. Intro music by Joshua Allgood]]></description>
-			<guid isPermaLink="false">The Music Industry</guid>
+			<link>https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle003-the-music-industry.mp3</link>
+			<guid isPermaLink="true">https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle003-the-music-industry.mp3</guid>
 			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
 			<pubDate>Wed, 16 Oct 2019 00:00:00 GMT</pubDate>
 			<itunes:summary>Luke, Liam, and Elias provide some insight into how the music industry has evolved, and how digital media and self-publishing are revolutionizing the way artists promote themselves. Cast: Elias, Luke, Liam. Intro music by Joshua Allgood</itunes:summary>
@@ -59,7 +61,8 @@
 		<item>
 			<title><![CDATA[Year/Decade in Review]]></title>
 			<description><![CDATA[In this episode, Liam, Elias, Luke, and Jackson wrap up the year/decade by revealing some of our favorite albums, discussing the internet's favorite albums, and speaking at length about a particular artist that shaped this decade in a massive way. Cast: Elias, Luke, Liam, Jackson. Intro music by Richard Milenkovich, Elias Jackson, Sean Ryan]]></description>
-			<guid isPermaLink="false">Year/Decade in Review</guid>
+			<link>https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle004-year-decade-in-review.mp3</link>
+			<guid isPermaLink="true">https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle004-year-decade-in-review.mp3</guid>
 			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
 			<pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
 			<itunes:summary>In this episode, Liam, Elias, Luke, and Jackson wrap up the year/decade by revealing some of our favorite albums, discussing the internet&apos;s favorite albums, and speaking at length about a particular artist that shaped this decade in a massive way. Cast: Elias, Luke, Liam, Jackson. Intro music by Richard Milenkovich, Elias Jackson, Sean Ryan</itunes:summary>
@@ -68,7 +71,8 @@
 		<item>
 			<title><![CDATA[Run the Jewels - RTJ4 Review]]></title>
 			<description><![CDATA[The music podcast is back! We review the latest Run the Jewels album, discussing its profound, captivating lyrics and top-notch production. We also spend a lot of time talking about the ongoing racial tensions and political disillusion in America, which plays into the album’s themes. The podcast ends with a powerful poem by Kaila. Cast: Elias, Jackson, Shane, Dante, Kaila, Grant, Ian. Intro music by Joshua Allgood]]></description>
-			<guid isPermaLink="false">Run the Jewels - RTJ4 Review</guid>
+			<link>https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle005-run-the-jewels-rtj4-review.mp3</link>
+			<guid isPermaLink="true">https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle005-run-the-jewels-rtj4-review.mp3</guid>
 			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
 			<pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
 			<itunes:summary>The music podcast is back! We review the latest Run the Jewels album, discussing its profound, captivating lyrics and top-notch production. We also spend a lot of time talking about the ongoing racial tensions and political disillusion in America, which plays into the album’s themes. The podcast ends with a powerful poem by Kaila. Cast: Elias, Jackson, Shane, Dante, Kaila, Grant, Ian. Intro music by Joshua Allgood</itunes:summary>
