@@ -6,7 +6,8 @@
 			"episodeNo": 1,
 			"totalEpisodeNo": 1,
 			"dateRecorded": "2019-09-06",
-			"dateReleased": "2019-09-11"
+			"dateReleased": "2019-09-11",
+			"filename": "listeningcircle001-tool-fear-inoculum-album-review.mp3"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-1-tool-fear-inoculum-album-review",
@@ -39,7 +40,8 @@
 			"episodeNo": 2,
 			"totalEpisodeNo": 2,
 			"dateRecorded": "2019-09-21",
-			"dateReleased": "2019-09-25"
+			"dateReleased": "2019-09-25",
+			"filename": "listeningcircle002-what-makes-a-good-concert.mp3"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-2-what-makes-a-good-concert",
@@ -72,7 +74,8 @@
 			"episodeNo": 3,
 			"totalEpisodeNo": 3,
 			"dateRecorded": "2019-10-12",
-			"dateReleased": "2019-10-16"
+			"dateReleased": "2019-10-16",
+			"filename": "listeningcircle003-the-music-industry.mp3"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/ep-3-the-music-industry",
@@ -99,7 +102,8 @@
 			"episodeNo": 4,
 			"totalEpisodeNo":4,
 			"dateRecorded": "2019-12-14",
-			"dateReleased": "2019-12-18"
+			"dateReleased": "2019-12-18",
+			"filename": "listeningcircle004-year-decade-in-review.mp3"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-4-best-albums-of-the-yeardecade",
@@ -129,7 +133,8 @@
 			"episodeNo": 5,
 			"totalEpisodeNo": 5,
 			"dateRecorded": "2020-06-06",
-			"dateReleased": "2020-06-10"
+			"dateReleased": "2020-06-10",
+			"filename": "listeningcircle005-run-the-jewels-rtj4-review.mp3"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-5-run-the-jewels-rtj4-review",

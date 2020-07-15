@@ -11,7 +11,11 @@ episodes.forEach(ep => {
     title: ep.info.title,
     description: ep.info.description +
       ` Cast: ${ep.info.cast.join(', ')}. Intro music by ${ep.info.introCredits.join(', ')}`,
-    url: ep.links.mp3,
+    url: ep.links.youtube,
+    enclosure: {
+      url: ep.links.mp3,
+      type: 'audio/mpeg'
+    },
     date: ep.metadata.dateReleased,
     // itunesDuration: ???,
     itunesExplicit: true,
