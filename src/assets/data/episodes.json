@@ -11,7 +11,7 @@
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-1-tool-fear-inoculum-album-review",
 			"youtube": "https://youtu.be/WpHilvsT0-E",
-			"mp3": "https://listeningcircle.netlify.app/podcast/episodes/listeningcircle001-tool-fear-inoculum-album-review"
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle001-tool-fear-inoculum-album-review.mp3"
 		},
 		"info": {
 			"title": "Tool - Fear Inoculum Review",
@@ -43,7 +43,8 @@
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-2-what-makes-a-good-concert",
-			"youtube": "https://youtu.be/fu2zxADjnMg"
+			"youtube": "https://youtu.be/fu2zxADjnMg",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle002-what-makes-a-good-concert.mp3"
 		},
 		"info": {
 			"title": "What Makes A Good Concert?",
@@ -75,7 +76,8 @@
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/ep-3-the-music-industry",
-			"youtube": "https://youtu.be/U6cNQtsugjw"
+			"youtube": "https://youtu.be/U6cNQtsugjw",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle003-the-music-industry.mp3"
 		},
 		"info": {
 			"title": "The Music Industry",
@@ -101,7 +103,8 @@
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-4-best-albums-of-the-yeardecade",
-			"youtube": "https://youtu.be/MNyyj4SR3P4"
+			"youtube": "https://youtu.be/MNyyj4SR3P4",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle004-year-decade-in-review.mp3"
 		},
 		"info": {
 			"title": "Year/Decade in Review",
@@ -130,7 +133,8 @@
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/episode-5-run-the-jewels-rtj4-review",
-			"youtube": "https://youtu.be/4GHmlk_GE1Q"
+			"youtube": "https://youtu.be/4GHmlk_GE1Q",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle005-run-the-jewels-rtj4-review.mp3"
 		},
 		"info": {
 			"title": "Run the Jewels - RTJ4 Review",
