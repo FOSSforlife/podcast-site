@@ -9,7 +9,7 @@
 			<link>https://soundcloud.com/listeningcircle/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 15 Jul 2020 03:27:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Aug 2020 16:37:36 GMT</lastBuildDate>
 		<atom:link href="https://listeningcircle.netlify.app/rss/podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Listening Circle]]></author>
 		<language><![CDATA[en-US]]></language>
@@ -81,6 +81,17 @@
 			<pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
 			<enclosure url="https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle005-run-the-jewels-rtj4-review.mp3" length="0" type="audio/mpeg"/>
 			<itunes:summary>The music podcast is back! We review the latest Run the Jewels album, discussing its profound, captivating lyrics and top-notch production. We also spend a lot of time talking about the ongoing racial tensions and political disillusion in America, which plays into the album’s themes. The podcast ends with a powerful poem by Kaila. Cast: Elias, Jackson, Shane, Dante, Kaila, Grant, Ian. Intro music by Joshua Allgood</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+		</item>
+		<item>
+			<title><![CDATA[2020 Album Roundup: Jessie Ware, Thundercat, King Krule]]></title>
+			<description><![CDATA[We're halfway through 2020, so we're here to discuss our favorite albums so far. We go through some of our individual picks, followed by group discussions on Jessie Ware's "What's Your Pleasure", Thundercat's "It Is What It Is", and King Krule's "Man Alive!" Cast: Elias, Jackson, Dante, Grant. Intro music by Sweet Blood]]></description>
+			<link>https://youtu.be/aZC_Y8jwNwA</link>
+			<guid isPermaLink="true">https://youtu.be/aZC_Y8jwNwA</guid>
+			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
+			<pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate>
+			<enclosure url="https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle006-2020-album-picks-jessie-ware-thundercat-king-krule.mp3" length="0" type="audio/mpeg"/>
+			<itunes:summary>We&apos;re halfway through 2020, so we&apos;re here to discuss our favorite albums so far. We go through some of our individual picks, followed by group discussions on Jessie Ware&apos;s &quot;What&apos;s Your Pleasure&quot;, Thundercat&apos;s &quot;It Is What It Is&quot;, and King Krule&apos;s &quot;Man Alive!&quot; Cast: Elias, Jackson, Dante, Grant. Intro music by Sweet Blood</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
 		</item>
 	</channel>
