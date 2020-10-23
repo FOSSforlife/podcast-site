@@ -195,7 +195,8 @@
 			"totalEpisodeNo": 7,
 			"dateRecorded": "2020-10-11",
 			"dateReleased": "2020-10-23",
-			"filename": "listeningcircle007-idles-ultra-mono-review.mp3"
+			"filename": "listeningcircle007-idles-ultra-mono-review.mp3",
+			"img": "https://listeningcircle.netlify.app/img/ep/007.png"
 		},
 		"links": {
 			"soundcloud": "https://soundcloud.com/listeningcircle/ep007",

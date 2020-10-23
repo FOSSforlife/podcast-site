@@ -22,7 +22,7 @@ episodes.forEach(ep => {
     date: ep.metadata.dateReleased,
     // itunesDuration: ???,
     itunesExplicit: true,
-    itunesImage: 'https://listeningcircle.netlify.app/img/ep/007.png',
+    itunesImage: ep.metadata.img,
   });
 });
 
