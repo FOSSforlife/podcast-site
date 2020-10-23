@@ -9,18 +9,22 @@ const feed = new Podcast(feedOptions);
 episodes.forEach(ep => {
   feed.addItem({
     title: ep.info.title,
-    description: ep.info.description +
-      ` Cast: ${ep.info.cast.join(', ')}. Intro music by ${ep.info.introCredits.join(', ')}`,
+    description:
+      ep.info.description +
+      ` Cast: ${ep.info.cast.join(', ')}. Intro music by ${ep.info.introCredits.join(', ')} ${
+        ep.info.descriptionAppend ? ep.info.descriptionAppend : ''
+      }`,
     url: ep.links.youtube,
     enclosure: {
       url: ep.links.mp3,
-      type: 'audio/mpeg'
+      type: 'audio/mpeg',
     },
     date: ep.metadata.dateReleased,
     // itunesDuration: ???,
     itunesExplicit: true,
-  })
-})
+    itunesImage: 'https://listeningcircle.netlify.app/img/ep/007.png',
+  });
+});
 
 const xml = feed.buildXml('\t');
 fs.writeFileSync(path.join(__dirname, 'static', 'rss', 'podcast.xml'), xml);
