@@ -9,7 +9,7 @@
 			<link>https://soundcloud.com/listeningcircle/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 23 Oct 2020 06:02:13 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Feb 2021 04:45:35 GMT</lastBuildDate>
 		<atom:link href="https://listeningcircle.netlify.app/rss/podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Listening Circle]]></author>
 		<language><![CDATA[en-US]]></language>
@@ -105,6 +105,17 @@
 			<itunes:summary>Loud, outspoken, and critically acclaimed UK rock band IDLES returns with their third full-length album, &quot;Ultra Mono&quot;! We talk about which tracks had us headbanging the most, our favorite lyrics to yell along to, and how some people on the internet (in Grant&apos;s term, &quot;virgins&quot;) may have over-analyzed the album. Cast: Elias, Dante, Grant, David, Eric. Intro music by Death Will Bring Change (Check out their new EP at deathwillbringchange.bandcamp.com)</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:image href="https://listeningcircle.netlify.app/img/ep/007.png"/>
+		</item>
+		<item>
+			<title><![CDATA[2020 Album Awards!]]></title>
+			<description><![CDATA[In this jam-packed finale episode, we discuss our Discord server's Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020! Cast: Elias, Dante, Grant, Shane, Emmitt. Intro music by Karas ]]></description>
+			<link>https://youtu.be/tL9DVzFeKFw</link>
+			<guid isPermaLink="true">https://youtu.be/tL9DVzFeKFw</guid>
+			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
+			<pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle008-2020-album-awards.mp3" length="0" type="audio/mpeg"/>
+			<itunes:summary>In this jam-packed finale episode, we discuss our Discord server&apos;s Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020! Cast: Elias, Dante, Grant, Shane, Emmitt. Intro music by Karas </itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
 		</item>
 	</channel>
 </rss>
