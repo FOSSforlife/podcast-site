@@ -218,5 +218,35 @@
 				"Death Will Bring Change"
 			]
 		}
+	},
+	{
+		"episodeId": "ep008",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 8,
+			"totalEpisodeNo": 8,
+			"dateRecorded": "2020-12-22",
+			"dateReleased": "2021-01-12",
+			"filename": "listeningcircle008-2020-album-awards.mp3",
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/ep008",
+			"youtube": "https://youtu.be/tL9DVzFeKFw",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle008-2020-album-awards.mp3"
+		},
+		"info": {
+			"title": "2020 Album Awards!",
+			"description": "In this jam-packed finale episode, we discuss our Discord server's Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020!",
+			"cast": [
+				"Elias",
+				"Dante",
+				"Grant",
+				"Shane",
+				"Emmitt"
+			],
+			"introCredits": [
+				"Karas"
+			]
+		}
 	}
 ]
