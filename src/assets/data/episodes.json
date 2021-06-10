@@ -248,5 +248,35 @@
 				"Karas"
 			]
 		}
+	},
+	{
+		"episodeId": "ep009",
+		"metadata": {
+			"season": 1,
+			"episodeNo": 9,
+			"totalEpisodeNo": 9,
+			"dateRecorded": "2021-05-15",
+			"dateReleased": "2021-06-10",
+			"filename": "listeningcircle009-gojira-fortitude-review.mp3"
+		},
+		"links": {
+			"soundcloud": "https://soundcloud.com/listeningcircle/ep009",
+			"youtube": "https://youtu.be/RYXAfUMyc5E",
+			"mp3": "https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle009-gojira-fortitude-review.mp3"
+		},
+		"info": {
+			"title": "Gojira - Fortitude Review",
+			"description": "In this jam-packed finale episode, we discuss our Discord server's Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020!",
+			"cast": [
+				"Elias",
+				"Dante",
+				"Luke",
+				"Eric",
+				"Dave"
+			],
+			"introCredits": [
+				"Elias Jackson"
+			]
+		}
 	}
 ]
