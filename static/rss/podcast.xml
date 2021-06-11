@@ -9,7 +9,7 @@
 			<link>https://soundcloud.com/listeningcircle/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 21 Feb 2021 04:45:35 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Jun 2021 23:56:47 GMT</lastBuildDate>
 		<atom:link href="https://listeningcircle.netlify.app/rss/podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Listening Circle]]></author>
 		<language><![CDATA[en-US]]></language>
@@ -115,6 +115,17 @@
 			<pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
 			<enclosure url="https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle008-2020-album-awards.mp3" length="0" type="audio/mpeg"/>
 			<itunes:summary>In this jam-packed finale episode, we discuss our Discord server&apos;s Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020! Cast: Elias, Dante, Grant, Shane, Emmitt. Intro music by Karas </itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+		</item>
+		<item>
+			<title><![CDATA[Gojira - Fortitude Review]]></title>
+			<description><![CDATA[In this jam-packed finale episode, we discuss our Discord server's Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020! Cast: Elias, Dante, Luke, Eric, Dave. Intro music by Elias Jackson ]]></description>
+			<link>https://youtu.be/RYXAfUMyc5E</link>
+			<guid isPermaLink="true">https://youtu.be/RYXAfUMyc5E</guid>
+			<dc:creator><![CDATA[Listening Circle]]></dc:creator>
+			<pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://listening-circle.sfo2.cdn.digitaloceanspaces.com/episodes/listeningcircle009-gojira-fortitude-review.mp3" length="0" type="audio/mpeg"/>
+			<itunes:summary>In this jam-packed finale episode, we discuss our Discord server&apos;s Top 15 Albums of 2020! Find out which ones we awarded Best 420 Album, Best Lyrics, Best Night Drive Album, and Anthem of 2020! Cast: Elias, Dante, Luke, Eric, Dave. Intro music by Elias Jackson </itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
 		</item>
 	</channel>
